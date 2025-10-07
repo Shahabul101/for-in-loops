@@ -1,5 +1,5 @@
 
-//Arrays Basis method.
+//Arrays Basis method
 
 let fruits = ["apple", "Mango", "Banana", "Orange"];
 
